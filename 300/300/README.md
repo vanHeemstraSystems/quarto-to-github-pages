@@ -1,8 +1,8 @@
 # 300 - GitHub Action
 
-Using the quarto publish gh-pages command to publish locally rendered content is the most simple and straightforward way to publish. Another option is to use GitHub Actions to render and publish your site (you might prefer this if you want execution and/or rendering to be automatically triggered from commits).
+Using the ```quarto publish gh-pages``` command to publish locally rendered content is the most simple and straightforward way to publish. Another option is to use [GitHub Actions](https://docs.github.com/en/actions) to render and publish your site (you might prefer this if you want execution and/or rendering to be automatically triggered from commits).
 
-There are a few different ways to approach rendering and publishing content. Below, we’ll provide a how-to guide for publishing with GitHub Actions. For more conceptual background on the various approaches, see the discussion on Rendering for CI.
+There are a few different ways to approach rendering and publishing content. Below, we’ll provide a how-to guide for publishing with GitHub Actions. For more conceptual background on the various approaches, see the discussion on [Rendering for CI](https://quarto.org/docs/publishing/ci.html#rendering-for-ci).
 
 ## 100 - Freezing Computations
 
