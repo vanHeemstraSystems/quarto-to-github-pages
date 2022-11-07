@@ -4,7 +4,7 @@ Three alternative methods:
 
 1) Render to docs: Not preferred as generated pages will be checked into Git ```main``` branch.
 
-2) Publish command: Preferred, as no generated pages will be checked into Git ```main``` branch, but ```gh-pages``` branch instead.
+2) Publish Command: Preferred, as no generated pages will be checked into Git ```main``` branch, but ```gh-pages``` branch instead.
 
 3) GitHub Action: Not preferred as GitHub Actions come at a cost.
 
@@ -12,7 +12,7 @@ Three alternative methods:
 
 See [README.md](./100/README.md)
 
-## 200 - Publish command
+## 200 - Publish Command
 
 See [README.md](./200/README.md)
 
