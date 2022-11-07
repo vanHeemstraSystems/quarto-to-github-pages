@@ -11,6 +11,28 @@ project:
 ```
 _quarto.yml
 
+Then, add a ```.nojekyll``` file to the root of your repository that tells GitHub Pages not to do additional processing of your published site using Jekyll (the GitHub default site generation tool):
+
+Mac/Linux:
+```
+$ touch .nojekyll
+```
+
+Windows:
+```
+copy NUL .nojekyll
+```
+
+Now, render your site and push it to GitHub:
+
+```
+$ quarto render
+$ git push
+```
+
+Finally, configure your GitHub repository to publish from the ```docs``` directory of your ```main``` branch:
+
+
 
 
 
