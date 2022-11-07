@@ -34,6 +34,4 @@ Finally, configure your GitHub repository to publish from the ```docs``` directo
 
 <img width="1159" alt="gh-pages-docs-dir" src="https://user-images.githubusercontent.com/1499433/200272915-ac5a255d-874c-4db0-91ca-e713afc5d691.png">
 
-
-
-More ...
+Once you’ve made this configuration change GitHub will trigger a deployment of your website. Your site will also be updated whenever you commit and push to ```main```.
