@@ -1,3 +1,3 @@
 # 200 - Requirements
 
-More ...
+- An account with GitHub
