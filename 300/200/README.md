@@ -10,7 +10,7 @@ Many users have reported problems with using ```quarto publish gh-pages``` on Wi
 
 See [README.md](./100/README.md)
 
-## 200 - Ignore Output
+## 200 - Ignoring Output
 
 See [README.md](./200/README.md)
 
