@@ -1,4 +1,4 @@
-# 200 - Publish command
+# 200 - Publish Command
 
 The ```quarto publish``` command is an easy way to publish locally rendered documents and websites. Before attempting to use ```quarto publish``` (either locally or from a GitHub Action) you should be sure to configure the [Source Branch](https://quarto.org/docs/publishing/github-pages.html#source-branch) and [Ignore Output](https://quarto.org/docs/publishing/github-pages.html#ignoring-output) as described below.
 
