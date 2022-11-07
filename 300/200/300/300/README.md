@@ -1,6 +1,6 @@
 # 300 - Options
 
-Here are all of the available command line options for quarto publish gh-pages:
+Here are all of the available command line options for ```quarto publish gh-pages```:
 
 | Option | Behavior |
 | --- | --- |
