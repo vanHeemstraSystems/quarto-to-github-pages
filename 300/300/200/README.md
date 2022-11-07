@@ -31,7 +31,4 @@ jobs:
 ```
 .github/workflows/publish.yml
 
-
-
-
-More ...
+Once you’ve done this, check all of the newly created files (including the ```_freeze``` directory) into your repository and then push to GitHub. A GitHub Pages site will be created for your repository, and every time you push a new change to the repository it will be automatically rebuilt to reflect the change. Consult the **Pages** section of your repository **Settings** to see what the URL and publish status for your site is.
