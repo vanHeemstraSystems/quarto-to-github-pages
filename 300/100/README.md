@@ -32,7 +32,7 @@ $ git push
 
 Finally, configure your GitHub repository to publish from the ```docs``` directory of your ```main``` branch:
 
-
+<img width="1159" alt="gh-pages-docs-dir" src="https://user-images.githubusercontent.com/1499433/200272915-ac5a255d-874c-4db0-91ca-e713afc5d691.png">
 
 
 
