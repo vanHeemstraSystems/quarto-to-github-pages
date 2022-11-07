@@ -1,2 +1,2 @@
-# 200 - Ignore Output
+# 200 - Ignoring Output
 
