@@ -5,6 +5,8 @@ Based on "GitHub Pages" at https://quarto.org/docs/publishing/github-pages.html
 
 Based on "Quarto - Headstart" at https://github.com/vanHeemstraSystems/quarto-headstart
 
+Based on "Awesome Quarto" at https://github.com/mcanouil/awesome-quarto
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
